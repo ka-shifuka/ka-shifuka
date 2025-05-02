@@ -1,7 +1,7 @@
 <img loading="lazy" src="/images/background-1.png" alt="image">
 
 ## Welcome there 👋
-<p style="font-wight:200;">Let me introduce myself briefly.</p>
+<p align="right">Let's briefly introduce myself.</p>
 
 My name is Arya Dewangga puja, an ordinary student but really likes learning things that I think are interesting.
 
